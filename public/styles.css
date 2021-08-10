@@ -1,0 +1,370 @@
+:root {
+    --gris1: #edf2f6;
+    --gris2: #2f3848;
+    --gris3: #1a202d;
+    --gris4: #e7e9ec;
+    --sansRegular: 'Open Sans', sans-serif;
+    --sansBold: 'Open Sans', sans-serif bold;
+    --headingFont: 'Raleway', sans-serif;
+    --textFont: 'Roboto', sans-serif;
+}
+
+body {
+    font-family: var(--textFont);
+    background-color: var(--gris1);
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: var(--headingFont);
+    font-weight: 800;
+    color: var(--gris2);
+}
+
+p,
+button {
+    font-family: var(--textFont);
+}
+
+nav img {
+    width: 50px;
+}
+
+.nombre-usuario-span {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.ctn-600 {
+    max-width: 600px;
+}
+
+.ctn-800 {
+    max-width: 800px;
+}
+
+.ctn-1200 {
+    max-width: 1200px;
+}
+
+.margin-negative {
+    margin-top: -2rem;
+}
+
+.d-inherit {
+    display: inherit;
+}
+
+#results br {
+    display: none;
+}
+
+
+/* Animations */
+
+.grow {
+    transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+    transform: scale(1.1);
+}
+
+
+/* Backgrounds */
+
+.bg-grey-1 {
+    background-color: var(--gris1);
+}
+
+.bg-grey-2 {
+    background-color: var(--gris2);
+}
+
+.bg-grey-3 {
+    background-color: var(--gris3);
+}
+
+.bg-grey-4 {
+    background-color: var(--gris4);
+}
+
+.bg-blue {
+    background-color: #1D72C2;
+}
+
+.bg-orange {
+    background-color: #FF6F00;
+}
+
+.bg-gradiente-aqua {
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+
+.bg-grey-2:hover {
+    background-color: #000;
+    transition: all .3s ease-in-out
+}
+
+
+/* Buttons */
+
+.btn-company {
+    margin-top: 2rem;
+    font-family: var(--headingFont);
+    padding: .5rem;
+    font-size: 1.4;
+    font-weight: 400;
+    border-radius: .5rem;
+    border: none;
+    transition: background-color .3s ease;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+
+.btn-company-primary {
+    background-color: var(--gris2);
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.btn-company-primary:hover {
+    background: var(--gris3);
+}
+
+.btn-channel {
+    background-color: rgb(142, 199, 252, 0.1);
+    color: #0683F9;
+    font-size: 0.8rem;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-channel:hover {
+    background-color: #1CC1F5;
+    color: #fff;
+}
+
+.btn-editar {
+    background-color: rgba(154, 252, 154, .3);
+    color: var(--gris3);
+    font-weight: 900;
+}
+
+.btn-editar:hover {
+    background-color: rgba(16, 230, 16, 0.3);
+    transition: all .3s ease-in-out;
+}
+
+.btn-eliminar {
+    background-color: rgba(255, 178, 178, .4);
+    color: var(--gris3);
+    font-weight: 900;
+}
+
+.btn-eliminar:hover {
+    background-color: rgba(240, 29, 29, 0.4);
+    transition: all .3s ease-in-out;
+}
+
+.btn-agregar-ciudad {
+    background-color: rgba(173, 167, 167, 0.4);
+    color: var(--gris3);
+    font-weight: 900;
+}
+
+.btn-agregar-ciudad:hover {
+    background-color: rgba(68, 49, 49, 0.4);
+    transition: all .3s ease-in-out;
+}
+
+.btn-purple {
+    color: #fff;
+    background-color: rgb(85, 0, 255);
+    border: 1px solid rgb(85, 0, 255);
+}
+
+.btn-purple:hover {
+    color: #fff;
+    -webkit-box-shadow: 0px 4px 20px -3px rgba(117, 117, 117, 1);
+    -moz-box-shadow: 0px 4px 10px -3px rgba(117, 117, 117, 1);
+    box-shadow: 0px 4px 20px -3px rgba(117, 117, 117, 1);
+}
+
+.btn-submit:hover {
+    background-color: var(--gris3);
+}
+
+input[type="file"] {
+    display: none;
+}
+
+input[type="checkbox"] {
+    cursor: pointer;
+}
+
+*:focus {
+    outline: none;
+}
+
+
+/* Login   */
+
+.bg-image {
+    background-image: url("bg-login.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.alerta {
+    padding: 1rem 3rem;
+    border-radius: 1rem;
+    font-family: var(--headingFont);
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+}
+
+@media (min-width:768px) {
+    .alerta {
+        width: auto;
+        top: 30px;
+        right: 10px;
+        left: auto;
+    }
+}
+
+.alerta-ok {
+    background-color: rgb(109, 211, 109);
+    color: rgb(2, 103, 2);
+}
+
+.alerta-error {
+    background-color: rgb(230, 78, 78);
+    color: #fff;
+}
+
+
+/* Paises   */
+
+.pais {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--blanco);
+    padding: .5rem 2rem;
+    align-items: center;
+    margin-bottom: 1rem;
+    border-radius: .5rem;
+}
+
+.sombra {
+    -webkit-box-shadow: 0px 4px 10px -3px rgba(117, 117, 117, 1);
+    -moz-box-shadow: 0px 4px 10px -3px rgba(117, 117, 117, 1);
+    box-shadow: 0px 4px 10px -3px rgba(117, 117, 117, 1);
+}
+
+
+/* Compañías */
+
+.new-company {
+    margin-top: 3rem;
+}
+
+.form-new-company {
+    margin-top: 3rem;
+}
+
+.input-text {
+    padding: 1rem;
+    border: none;
+    border-radius: .5rem;
+    flex: 1;
+    width: 100%;
+}
+
+.form-new-company .input-text {
+    color: #000;
+    font-weight: bold;
+    border-bottom: 1px solid var(--gris2);
+    border-radius: 0;
+    background-color: var(--gris1);
+}
+
+.form-new-company .input-text::placeholder {
+    color: rgba(117, 117, 117, 1);
+}
+
+.mensaje {
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: bold;
+    border-radius: 0;
+    padding: .5rem;
+}
+
+.error {
+    max-width: 300px;
+    margin: 2rem auto 0 auto;
+    background-color: rgb(170, 0, 0);
+    color: #fff;
+}
+
+.listado-companias li {
+    list-style: none;
+    font-size: 1.4rem;
+    color: var(--gris2);
+    line-height: 1.5;
+    font-weight: 300;
+    text-align: start;
+}
+
+.company-card {
+    padding: 2rem;
+    background: white;
+    border-bottom: 1px solid #e1e1e1;
+    color: black;
+    list-style: none;
+    cursor: pointer;
+}
+
+.company-card-33 {
+    width: 33%;
+    height: 33%;
+}
+
+.company-card-li {
+    height: 350px;
+}
+
+.company-card p {
+    font-weight: bold;
+    margin-bottom: .8rem;
+}
+
+.company-card p span {
+    font-weight: normal;
+}
+
+.company-card:first-of-type {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.company-card:last-of-type {
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+
+/* Usuarios */
+
+.fa-user-lock::before {
+    font-size: 5rem;
+}

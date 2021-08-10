@@ -1,0 +1,198 @@
+﻿ISO,Pais,Region
+ALB  ,Albania  ,Europa  
+AND  ,Andorra  ,Europa  
+BIH  ,Bosnia y Herzegovina  ,Europa  
+HRV  ,Croacia  ,Europa  
+SVN  ,Eslovenia  ,Europa  
+ESP  ,España  ,Europa  
+GRC  ,Grecia  ,Europa  
+ITA  ,Italia  ,Europa  
+MKD  ,Macedonia  ,Europa  
+MLT  ,Malta  ,Europa  
+MNE  ,Montenegro  ,Europa  
+PRT  ,Portugal  ,Europa  
+SMR  ,San Marino  ,Europa  
+VAT  ,Santa Sede  ,Europa  
+SRB  ,Serbia  ,Europa  
+DEU  ,Alemania  ,Europa  
+AUT  ,Austria  ,Europa  
+BEL  ,Bélgica  ,Europa  
+FRA  ,Francia  ,Europa  
+LIE  ,Liechtenstein  ,Europa  
+LUX  ,Luxemburgo  ,Europa  
+MCO  ,Mónaco  ,Europa  
+NLD  ,Países Bajos  ,Europa  
+CHE  ,Suiza  ,Europa  
+BLR  ,Belarús  ,Europa  
+BGR  ,Bulgaria  ,Europa  
+HUN  ,Hungría  ,Europa  
+MDA  ,Moldavia  ,Europa  
+POL  ,Polonia  ,Europa  
+CZE  ,República Checa  ,Europa  
+SVK  ,República Eslovaca  ,Europa  
+ROU  ,Rumanía  ,Europa  
+RUS  ,Rusia  ,Europa  
+UKR  ,Ucrania  ,Europa  
+DNK  ,Dinamarca  ,Europa  
+EST  ,Estonia  ,Europa  
+FIN  ,Finlandia  ,Europa  
+IRL  ,Irlanda  ,Europa  
+ISL  ,Islandia  ,Europa  
+LVA  ,Letonia  ,Europa  
+LTU  ,Lituania  ,Europa  
+NOR  ,Noruega  ,Europa  
+GBR  ,Reino Unido  ,Europa  
+SWE  ,Suecia  ,Europa  
+AGO  ,Angola  ,África  
+CMR  ,Camerún  ,África  
+COG  ,Congo  ,África  
+GAB  ,Gabón  ,África  
+GNQ  ,Guinea Ecuatorial  ,África  
+CAF  ,República Centroafricana  ,África  
+COD  ,República Democrática del Congo  ,África  
+STP  ,Santo Tomé y Príncipe  ,África  
+TCD  ,Chad  ,África  
+BWA  ,Botswana  ,África  
+LSO  ,Lesotho  ,África  
+NAM  ,Namibia  ,África  
+ZAF  ,Sudáfrica  ,África  
+SWZ  ,Swazilandia  ,África  
+BEN  ,Benin  ,África  
+BFA  ,Burkina Faso  ,África  
+CPV  ,Cabo Verde  ,África  
+CIV  ,Costa de Marfil  ,África  
+GMB  ,Gambia  ,África  
+GHA  ,Ghana  ,África  
+GIN  ,Guinea  ,África  
+GNB  ,Guinea-Bissau  ,África  
+LBR  ,Liberia  ,África  
+MLI  ,Mali  ,África  
+MRT  ,Mauritania  ,África  
+NER  ,Níger  ,África  
+NGA  ,Nigeria  ,África  
+SEN  ,Senegal  ,África  
+SLE  ,Sierra Leona  ,África  
+TGO  ,Togo  ,África  
+BDI  ,Burundi  ,África  
+COM  ,Comores  ,África  
+DJI  ,Djibouti  ,África  
+ERI  ,Eritrea  ,África  
+ETH  ,Etiopía  ,África  
+KEN  ,Kenia  ,África  
+MDG  ,Madagascar  ,África  
+MWI  ,Malawi  ,África  
+MUS  ,Mauricio  ,África  
+MOZ  ,Mozambique  ,África  
+RWA  ,Ruanda  ,África  
+SYC  ,Seychelles  ,África  
+SOM  ,Somalia  ,África  
+TZA  ,Tanzania  ,África  
+UGA  ,Uganda  ,África  
+ZMB  ,Zambia  ,África  
+ZWE  ,Zimbabwe  ,África  
+DZA  ,Argelia  ,África  
+EGY  ,Egipto  ,África  
+LBY  ,Libia  ,África  
+MAR  ,Marruecos  ,África  
+ESH  ,Sáhara Occidental  ,África  
+SSD  ,Sudán del Sur  ,África  
+SDN  ,Sudán   ,África  
+TUN  ,Túnez  ,África  
+BLZ  ,Belice  ,América  
+CRI  ,Costa Rica  ,América  
+SLV  ,El Salvador  ,América  
+GTM  ,Guatemala  ,América  
+HND  ,Honduras  ,América  
+MEX  ,México  ,América  
+NIC  ,Nicaragua  ,América  
+PAN  ,Panamá  ,América  
+CAN  ,Canadá  ,América  
+USA  ,Estados Unidos de América  ,América  
+ARG  ,Argentina  ,América  
+BOL  ,Bolivia  ,América  
+BRA  ,Brasil  ,América  
+COL  ,Colombia  ,América  
+ECU  ,Ecuador  ,América  
+GUY  ,Guyana  ,América  
+PRY  ,Paraguay  ,América  
+PER  ,Perú  ,América  
+SUR  ,Surinam  ,América  
+URY  ,Uruguay  ,América  
+VEN  ,Venezuela  ,América  
+CHL  ,Chile  ,América  
+ATG  ,Antigua y Barbuda  ,América  
+BHS  ,Bahamas  ,América  
+BRB  ,Barbados  ,América  
+CUB  ,Cuba  ,América  
+DMA  ,Dominica  ,América  
+GRD  ,Granada  ,América  
+HTI  ,Haití  ,América  
+JAM  ,Jamaica  ,América  
+DOM  ,República Dominicana  ,América  
+KNA  ,San Cristóbal y Nieves  ,América  
+LCA  ,Santa Lucía  ,América  
+VCT  ,San Vicente y las Granadinas  ,América  
+TTO  ,Trinidad y Tobago  ,América  
+KAZ  ,Kazajstán  ,Asia  
+KGZ  ,Kirguistán  ,Asia  
+TJK  ,Tadyikistán  ,Asia  
+TKM  ,Turkmenistán  ,Asia  
+UZB  ,Uzbekistán  ,Asia  
+AFG  ,Afganistán  ,Asia  
+BGD  ,Bangladesh  ,Asia  
+BTN  ,Bhután  ,Asia  
+IND  ,India  ,Asia  
+IRN  ,Irán  ,Asia  
+MDV  ,Maldivas  ,Asia  
+NPL  ,Nepal  ,Asia  
+PAK  ,Pakistán  ,Asia  
+LKA  ,Sri Lanka  ,Asia  
+SAU  ,Arabia Saudí  ,Asia  
+ARM  ,Armenia  ,Asia  
+AZE  ,Azerbaiyán  ,Asia  
+BHR  ,Bahréin  ,Asia  
+ARE  ,Emiratos Árabes Unidos  ,Asia  
+GEO  ,Georgia  ,Asia  
+YEM  ,Yemen  ,Asia  
+IRQ  ,Iraq  ,Asia  
+ISR  ,Israel  ,Asia  
+JOR  ,Jordania  ,Asia  
+KWT  ,Kuwait  ,Asia  
+LBN  ,Líbano  ,Asia  
+OMN  ,Omán  ,Asia  
+QAT  ,Qatar  ,Asia  
+SYR  ,Siria  ,Asia  
+PSE  ,Territorios Palestinos (o Palestina)  ,Asia  
+TUR  ,Turquía  ,Asia  
+CYP  ,Chipre  ,Asia  
+PRK  ,Corea del Norte  ,Asia  
+KOR  ,Corea del Sur  ,Asia  
+JPN  ,Japón  ,Asia  
+MNG  ,Mongolia  ,Asia  
+TWN  ,"Taiwán, China  ",Asia  
+CHN  ,China  ,Asia  
+BRN  ,Brunei  ,Asia  
+KHM  ,Camboya  ,Asia  
+PHL  ,Filipinas  ,Asia  
+IDN  ,Indonesia  ,Asia  
+LAO  ,Laos  ,Asia  
+MYS  ,Malasia  ,Asia  
+MMR  ,Myanmar  ,Asia  
+SGP  ,Singapur  ,Asia  
+THA  ,Tailandia  ,Asia  
+TLS  ,Timor Oriental  ,Asia  
+VNM  ,Vietnam  ,Asia  
+AUS  ,Australia  ,Oceanía  
+NZL  ,Nueva Zelanda  ,Oceanía  
+FJI  ,Fiji  ,Oceanía  
+SLB  ,Islas Salomón  ,Oceanía  
+PNG  ,Papúa Nueva Guinea  ,Oceanía  
+VUT  ,Vanuatu  ,Oceanía  
+MHL  ,Islas Marshall  ,Oceanía  
+KIR  ,Kiribati  ,Oceanía  
+FSM  ,Micronesia  ,Oceanía  
+NRU  ,Nauru  ,Oceanía  
+PLW  ,Palaos  ,Oceanía  
+WSM  ,Samoa  ,Oceanía  
+TON  ,Tonga  ,Oceanía  
+TUV  ,Tuvalu  ,Oceanía 
